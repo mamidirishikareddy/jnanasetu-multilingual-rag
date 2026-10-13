@@ -1,0 +1,17 @@
+streamlit
+langchain
+langchain-groq
+groq
+sentence-transformers
+faiss-cpu
+unstructured
+python-dotenv
+pypdf
+docx2txt
+markdown
+langdetect
+supabase
+pandas
+numpy
+tqdm
+pillow
